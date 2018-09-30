@@ -1,2 +1,2 @@
 # DeeplyDepressed
-Detection Depression on Social Media
+Depression Detection on Social Media
